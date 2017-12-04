@@ -1,0 +1,64 @@
+.call-to-action {
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    border-bottom: 1px solid #eaebec;
+}
+
+.call-to-action .section-overlay-layer {
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background: rgba(0, 5, 8, 0.80);
+}
+
+.call-to-action h2 {
+    margin-top: 20px;
+    margin-bottom: 50px;
+    font-size: 2.4rem;
+    line-height: 3.125rem;
+}
+
+.modal-content {
+    padding: 10px 30px 30px 30px;
+}
+
+.modal-content button {
+    width: 100%;
+}
+
+.ribbon-wrap {
+    text-align: left;
+    color: #fff;
+}
+ul li{
+    list-style: none;
+    font-size: 14px;
+}
+.urban{
+    font-size: 14px;
+    font-weight: bolder;
+    text-align: center;
+}
+.urban span{
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    border-radius: 100%;
+    background-image: url('../img/urban.png');
+    background-size: 100%;
+    vertical-align: middle;
+    margin-right: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
